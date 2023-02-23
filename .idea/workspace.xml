@@ -31,6 +31,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2M9eoBev8IexBIlTPurMZYb3lE3" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
